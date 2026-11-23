@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1024" height="1024">
+  <!-- Sevenomail logo: stacked envelopes (all your accounts in one inbox). -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a6fe0"/>
+      <stop offset="1" stop-color="#6f3cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
+  <rect x="152" y="108" width="208" height="148" rx="28" fill="#fff" fill-opacity="0.32"/>
+  <rect x="128" y="146" width="256" height="176" rx="32" fill="#fff" fill-opacity="0.58"/>
+  <rect x="100" y="190" width="312" height="214" rx="36" fill="#fff"/>
+  <path d="M126 222 L256 312 L386 222" fill="none" stroke="#4f47e8" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

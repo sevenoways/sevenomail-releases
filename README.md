@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.svg" alt="Sevenomail logo" width="96"></p>
+
 <p align="center">
   <img src="assets/sevenomail-light.png" alt="Sevenomail showing a unified inbox, the message list and an open email" width="860">
 </p>
